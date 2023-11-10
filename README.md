@@ -1,1 +1,1 @@
-# skyline-tech
+the function of this table is to evaluate and provide feedback on student work.In this way the instructor communicate to the students how they are performing in the course and where they need more help to achieve the course's goal.
