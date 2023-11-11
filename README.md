@@ -1,1 +1,1 @@
-# skyline-tech
+the function of a course outline is to document the curriculum at the course level and to support the learning process by identifying course learning requirements,evaluation methods,learning activities.

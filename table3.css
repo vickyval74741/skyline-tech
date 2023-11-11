@@ -1,0 +1,61 @@
+ body{
+ padding: 0;
+ margin: 0;
+
+ }
+ .container{
+ width: 100%;
+
+
+ }
+
+
+ table, th, td{
+ border-bottom: 1px solid green;
+ padding: 20px;
+
+ 
+
+ }
+
+ table{
+ width: 70%;
+ border-collapse:collapse;
+ margin: auto;
+ margin-top: 20px;
+
+ }
+
+ tr,td{
+
+ padding: 20px;
+
+ }
+
+ th{
+ background-color: blue;
+color: white;
+padding: 10px 30px 10px 30px;
+font-size: 20px;
+ }
+  td{
+
+  padding-left: 40px;
+  font-size: 20px;
+
+  }
+  .info{
+
+    margin-bottom: 50px;
+  }
+  caption{
+  padding:  12px;
+  background-color: orange;
+  width: 60%;
+  margin: auto;
+  border-radius: 10px;
+  font-size: 18px;
+
+  }
+
+  
