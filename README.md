@@ -1,1 +1,1 @@
-# skyline-tech
+Record keeping helps to prevent arguments between the instituion and its students,its helps to measure students performances.

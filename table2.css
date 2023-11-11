@@ -1,0 +1,73 @@
+body{
+
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+    }
+    
+     /* this is the table, table data and table head design */
+    
+    table, td, th{
+    
+    margin: auto;
+    margin-top: 40px;
+    border: 1px solid gray;
+    border-collapse: collapse;
+    }
+    table{
+    
+    width: 70%;
+    padding: 10px;
+    }
+    
+    th, td{
+    padding: 10px;
+    font-size: 20px;
+    
+    }
+    
+    /* here is the caption design */
+    
+    caption{
+    
+    font-size: 20px;
+    padding-bottom:  10px;
+    margin-bottom: 10px;
+    
+    }
+    /* here is the design for table head,and table row */
+    
+    th{
+    background-color:dodgerblue;
+    color: white;
+    font-size: 15px;
+    
+    }
+    tr:nth-child(odd){
+    background-color:darkturquoise;
+    
+    }
+    tr:hover{
+    background-color:lightgray;
+    
+    }
+
+    /* here is the approve button design  */
+
+    .val{
+   padding: 10px;
+
+
+    }
+    input[ type=submit]{
+
+     padding: 8px;
+     font-size: 10px;
+     color: white;
+     background-color: blue;
+
+
+    }
+    
+    
+    
